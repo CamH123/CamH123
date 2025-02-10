@@ -10,5 +10,5 @@
 3. ROS2 for Robotics and Autonomous Vehicle Research
 4. AI and ML through UC Berkley's CS182 course on Deeplearning
 - 📫 How to reach me: <a href = "www.linkedin.com/in/cameron-huang-b50abb250">LinkedIn</a> and <a target="_blank" href="mailto:cameron.h.1732@gmail.com">email</a>
-- ⚡ Fun fact: I can do a handstand :)
+- ⚡ Fun fact: I can hold a handstand :)
 
