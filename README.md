@@ -23,20 +23,7 @@ Leading a team to build **ROS2 + Gazebo** simulations for lunar navigation and m
 
 ---
 
-### 🛠️ Tech Stack  
-
-- **Languages:** Python, Java, C, C#, JavaScript, R, HTML/CSS  
-- **Web Dev:** React, Node, Express, PostgreSQL  
-- **Machine Learning:** Pytorch, Scikit-Learn, OpenCV, Numpy, Pandas, Matplotlib  
-- **Tools & Platforms:** AWS, Docker, ROS2, Git, Linux, Unity, Figma    
-
----
-
-## 📫 Connect With Me  
-
+**Let's Connect!**
 - 💼 LinkedIn: https://linkedin.com/in/cameronh123
 - ✉️ Email: ch185@rice.edu  
 
----
-
-⭐️ *Check out my pinned repositories below for more projects!*  
