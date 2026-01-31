@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Cameron Huang!  
 
-🎓 **Computer Science & Statistics Student @ Rice University**  
-💻 Aspiring Software Engineer | Experienced in AI/ML, AR/VR, and Robotics  
+🎓 **Computer Science & Data Science Student @ Rice University**  
+💻  Experienced in AI/ML, AR/VR, Robotics, and Web Development
 
 ---
 
